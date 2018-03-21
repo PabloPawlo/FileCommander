@@ -1,0 +1,40 @@
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe.config
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\bin\Debug\lab_04_B.pdb
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csprojResolveAssemblyReference.cache
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.MinTCPanel.resources
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Properties.Resources.resources
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csproj.GenerateResource.Cache
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.exe
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.pdb
+\\pitagoras\profile2_pracownicy\adam.zielonka\documents\visual studio 2015\Projects\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Form1.resources
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe.config
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.exe
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.pdb
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\bin\Debug\lab_04_B.pdb
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csprojResolveAssemblyReference.cache
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Form1.resources
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.MinTCPanel.resources
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Properties.Resources.resources
+\\Pitagoras\Profile2_Studenci\patryk.marcinek\Pulpit\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csproj.GenerateResource.Cache
+E:\programowanie\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe.config
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.exe
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.pdb
+E:\programowanie\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe
+E:\programowanie\lab_04_B\lab_04_B\bin\Debug\lab_04_B.pdb
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csprojResolveAssemblyReference.cache
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Form1.resources
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.MinTCPanel.resources
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Properties.Resources.resources
+E:\programowanie\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csproj.GenerateResource.Cache
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csprojResolveAssemblyReference.cache
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Form1.resources
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.MinTCPanel.resources
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.Properties.Resources.resources
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.csproj.GenerateResource.Cache
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.exe
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\obj\Debug\lab_04_B.pdb
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe.config
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\bin\Debug\lab_04_B.exe
+E:\Downloads\lab_04_B-20180321T222007Z-001\lab_04_B\lab_04_B\bin\Debug\lab_04_B.pdb
